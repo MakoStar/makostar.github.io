@@ -1,10 +1,10 @@
 ---
 permalink: /
-title: "Hello World!"  
+title: "HelloWorld!"  
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-### 👋 Hi there,I'm MakoStar.
+Hi there,I'm MakoStar.
